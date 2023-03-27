@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Antonio
-- 👀 I’m interested in computer vision and optics
-- 🌱 I’m currently learning artificial intelligence
-- 💞️ I’m looking to collaborate on cutting edge tech projects
+- 👀 I’m interested in neuroscience, machine learning and transhumanism.
+- 🌱 I’m currently learning biology, chemistry and medical applications of machine learning.
+- 💞️ I’m looking to collaborate on cutting edge tech projects.
